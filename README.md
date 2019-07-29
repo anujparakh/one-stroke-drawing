@@ -10,7 +10,7 @@ To build the project, download the repository locally and simply run the command
 
 The Graph.hpp and Graph.cpp files hold the logic to the Graph class which is behind everything. The main.cpp holds the testing case for parsing command line arguments and calling into the Graph class.
 
-### Format of Input and Output
+### Format of Input
 The format of the input file is as follows: the first line contains the number of vertices and the number of edges, respectiely. The next lines contain the endpoints of edges. For example:
 
 `5 6`<br>
@@ -23,9 +23,21 @@ The format of the input file is as follows: the first line contains the number o
 
 represents the following picture:
 
-And this input will result in the following output:
+![Alt text](Pictures/Graph5.png?raw=true "Title")
 
-As you can see, a path is possible and it is listed in the output.
+In this drawing, a path is possible and it would be listed in the output.
 
 ### Examples
 There are 6 graphs provided in the examples graph1.data - graph6.data :
+![Alt text](Pictures/Graph1.png?raw=true "Title")
+Graph1.data
+![Alt text](Pictures/Graph2.png?raw=true "Title")
+Graph2.data
+![Alt text](Pictures/Graph3.png?raw=true "Title")
+Graph3.data
+![Alt text](Pictures/Graph4.png?raw=true "Title")
+Graph4.data
+![Alt text](Pictures/Graph5.png?raw=true "Title")
+Graph5.data
+![Alt text](Pictures/Graph6.png?raw=true "Title")
+Graph6.data
