@@ -28,16 +28,10 @@ represents the following picture:
 In this drawing, a path is possible and it would be listed in the output.
 
 ### Examples
-There are 6 graphs provided in the examples graph1.data - graph6.data :
-<img src='Pictures/Graph1.png' width=350/>
-Graph 1
-<img src='Pictures/Graph2.png' width=350/>
-Graph 2
-<img src='Pictures/Graph3.png' width=350/>
-Graph 3
-<img src='Pictures/Graph4.png' width=350/>
-Graph 4
-<img src='Pictures/Graph5.png' width=350/>
-Graph 5
-<img src='Pictures/Graph6.png' width=350/>
-Graph 6
+There are 6 graphs provided in the examples graph1.data - graph6.data :<br> 
+<img src='Pictures/Graph1.png' title='Graph 1' width=350/> <br> 
+<img src='Pictures/Graph2.png' title='Graph 2' width=350/>
+<img src='Pictures/Graph3.png' title='Graph 3' width=350/>
+<img src='Pictures/Graph4.png' title='Graph 4' width=350/>
+<img src='Pictures/Graph5.png' title='Graph 5' width=350/>
+<img src='Pictures/Graph6.png' title='Graph 6' width=350/>
