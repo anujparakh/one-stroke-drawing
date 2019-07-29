@@ -23,21 +23,21 @@ The format of the input file is as follows: the first line contains the number o
 
 represents the following picture:
 
-![Alt text](Pictures/Graph5.png?raw=true "Title")
+<img src='Pictures/Graph5.png' width=350/>
 
 In this drawing, a path is possible and it would be listed in the output.
 
 ### Examples
 There are 6 graphs provided in the examples graph1.data - graph6.data :
-![Alt text](Pictures/Graph1.png?raw=true "Title")
-Graph1.data
-![Alt text](Pictures/Graph2.png?raw=true "Title")
-Graph2.data
-![Alt text](Pictures/Graph3.png?raw=true "Title")
-Graph3.data
-![Alt text](Pictures/Graph4.png?raw=true "Title")
-Graph4.data
-![Alt text](Pictures/Graph5.png?raw=true "Title")
-Graph5.data
-![Alt text](Pictures/Graph6.png?raw=true "Title")
-Graph6.data
+<img src='Pictures/Graph1.png' width=350/>
+Graph 1
+<img src='Pictures/Graph2.png' width=350/>
+Graph 2
+<img src='Pictures/Graph3.png' width=350/>
+Graph 3
+<img src='Pictures/Graph4.png' width=350/>
+Graph 4
+<img src='Pictures/Graph5.png' width=350/>
+Graph 5
+<img src='Pictures/Graph6.png' width=350/>
+Graph 6
